@@ -1,0 +1,20 @@
+{
+  "name": "CDC_Telegram_Bot",
+  "version": "1.0.0",
+  "description": "Congo Developers Club's bot that administrates members and interactions inside CDC's Telegram group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lenscorpx/CDC_Telegram_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lenscorpx/CDC_Telegram_Bot/issues"
+  },
+  "homepage": "https://github.com/Lenscorpx/CDC_Telegram_Bot#readme"
+}
